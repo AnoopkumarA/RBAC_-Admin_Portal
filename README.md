@@ -81,3 +81,12 @@ Check out the live application here: [RBAC Admin Dashboard](https://rbac-admin-d
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/rbac-admin-portal.git
+
+2. Install dependencies:
+   ```bash
+   cd rbac-admin-portal
+    npm install
+
+3. Run the development server:
+   ```bash
+   npm run dev  
