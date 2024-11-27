@@ -89,4 +89,24 @@ Check out the live application here: [RBAC Admin Dashboard](https://rbac-admin-d
 
 3. Run the development server:
    ```bash
-   npm run dev  
+   npm run dev
+
+# Project Name
+
+## 🚧 Potential Improvements
+
+- Backend API integration
+- Enhanced pagination
+- Advanced filtering
+- More detailed permission granularity
+- Comprehensive authentication system
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📞 Contact
+
+Anoop Kumar 
+Email: [anoopadraja@gmail.com](mailto:anoopadraja@gmail.com)
+
