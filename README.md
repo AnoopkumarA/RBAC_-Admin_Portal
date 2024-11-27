@@ -1,6 +1,6 @@
 # RBAC Admin Portal
 
-## 🌟 Overview
+##  Overview
 
 A comprehensive **Role-Based Access Control (RBAC) Admin Portal** built with React, Vite, TypeScript and use frame-works include Tailwind CSS. This application provides a robust solution for managing users, roles, and permissions with an intuitive, modern interface.
 
