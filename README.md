@@ -86,7 +86,7 @@ Check out the live application here: [RBAC Admin Dashboard](https://rbac-admin-d
 
 2. Install dependencies:
    ```bash
-   cd rbac-admin-portal
+   cd rbac_-admin_portal
     npm install
 
 3. Run the development server:
