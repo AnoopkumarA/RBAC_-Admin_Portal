@@ -1,0 +1,20 @@
+ <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer hexagon with gradient -->
+  <path d="M16 2L28 9V23L16 30L4 23V9L16 2Z" fill="url(#gradient)" />
+  <!-- Inner hexagon -->
+  <path d="M16 6L24 11V21L16 26L8 21V11L16 6Z" fill="#1a1f2e" />
+  <!-- Lock icon -->
+  <path d="M16 12C17.1046 12 18 12.8954 18 14V16H14V14C14 12.8954 14.8954 12 16 12ZM16 10C13.7909 10 12 11.7909 12 14V16H11C10.4477 16 10 16.4477 10 17V22C10 22.5523 10.4477 23 11 23H21C21.5523 23 22 22.5523 22 22V17C22 16.4477 21.5523 16 21 16H20V14C20 11.7909 18.2091 10 16 10Z" fill="url(#lockGradient)"/>
+  
+  <!-- Gradients -->
+  <defs>
+    <linearGradient id="gradient" x1="4" y1="2" x2="28" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <linearGradient id="lockGradient" x1="10" y1="10" x2="22" y2="23" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+</svg>
