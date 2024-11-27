@@ -76,7 +76,7 @@ Check out the live application here: [RBAC Admin Dashboard](https://rbac-admin-d
 ## 🛠 Setup and Installation
 
 ### **Prerequisites**
-- **Node.js** (v16+)
+- **Node.js** (v20)
 - **npm** (or your preferred package manager)
 
 ### **Installation Steps**
